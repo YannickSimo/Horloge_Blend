@@ -88,7 +88,7 @@
             </Label.RenderTransform>
         </Label>
         <Label Content="22" x:Name="lblSecond"  Foreground="#FFCCFFF8" FontFamily="Monotxt" FontWeight="Bold" FontSize="20" HorizontalAlignment="Left" Height="41.065" Margin="164.259,138.593,0,0" VerticalAlignment="Top" Width="40.209"/>
-        <Label Content="Sunday" x:Name="lblDays" FontWeight="Bold" Foreground="#FFCCFFF8" FontFamily="Monotxt" FontSize="40" HorizontalAlignment="Left" Height="76.142" Margin="212.853,72.626,0,0" VerticalAlignment="Top" Width="225.406" RenderTransformOrigin="0.5,0.5">
+        <Label Content="Sunday" x:Name="lblDays" FontWeight="Bold" Foreground="#FFCCFFF8" FontFamily="Monotxt" FontSize="40" HorizontalAlignment="Left" Height="71" Margin="182,63,0,0" VerticalAlignment="Top" Width="248" RenderTransformOrigin="0.5,0.5">
             <Label.RenderTransform>
                 <TransformGroup>
                     <ScaleTransform/>
